@@ -2,7 +2,7 @@
 
 Juego multijugador de recolección de monedas con arquitectura **Player Host** en Unity. Un jugador actúa como host (servidor y cliente a la vez) y los demás se conectan directamente a su instancia por TCP. No hay servidor dedicado.
 
-Proyecto de Servicios Multimedia. Autora: [tu nombre].
+Proyecto de Servicios Multimedia. Autora: Angela Ramos.
 
 ## Descripción del juego
 
